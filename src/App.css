@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap');
+
+body{
+background-color: #343a40;
+}
+.title{
+    font-family: 'Dancing Script', cursive;
+    letter-spacing: 0.2em;
+    font-size: 2.2vw;
+}
+.navbar{
+    font-family: 'Oxygen', sans-serif;
+    font-size: 1.4vw;
+    color: white;
+    }
+#content{
+margin-top: 6%;
+}
+.button{
+    width: 10rem;
+}
+#contact{
+    margin-top: 18%;
+}
+#box{
+    background-color: gray;
+    width: 15rem;
+    height: 4rem;
+    margin-right: 2%;
+    margin-top: 2%;
+}
+h4{
+    color: white;
+    text-align: center;
+    margin-top: -6%;
+}
+i{
+    color: white;
+    margin-top: 4%;
+    font-size:2rem;
+}
+h2{
+    text-align: center;
+    color: white;
+    margin-top: 14%;
+    margin-bottom: -8%;
+    font-family: 'Dancing Script', cursive;
+    letter-spacing: 0.2em;
+    font-size: 2.4vw;
+}
+h4{
+    font-size: 1.2rem;
+    text-align: left;
+    margin-left: 10%;
+    cursor: pointer;
+}
+h4:hover{
+    color: aqua;
+}
+#about{
+    margin-top: -20%;
+}
+.card{
+    background-color: gray;
+    width: 15rem;
+    height: 15rem;
+}
+.toppart{
+    width: 5rem;
+    height: 5rem;
+    margin-left: 33%;
+}
+h5{
+    color: white;
+    letter-spacing: 0.1em;
+    text-align: center;
+}
+#about h2{
+    text-align: center;
+    color: white;
+    margin-bottom: 10%;
+    margin-top: -15%;
+}
+.card:hover{
+    cursor: pointer;
+    transform: scale(1.2,1.2);
+    transition: transform .3s ease;
+}
+hr{
+    border: 2px solid white;
+    width: 20%;
+    float: left;   
+}
+.introduction h5{
+    color: gainsboro;
+    letter-spacing: 0.1em;
+    text-align: left;
+    justify-content: left;
+}.FirstName h6{
+    font-size: 20px;
+    padding: 1%;
+}
